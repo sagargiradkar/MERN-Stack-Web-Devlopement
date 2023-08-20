@@ -5,4 +5,4 @@
 ✅ Home Work <br>
 ✅ Projects <br>
 ✅ Cheatsheets <br>
-✅ All Lecture Code in Separate Files and Index File 
+✅ All Lecture Code in Separate Files and Index File .......
